@@ -2,7 +2,7 @@
 
 Business Mobi in Sunflower: a five-page business website template for phones (home, about, services, contact and a typography reference).
 
-**[Live demo](https://mobifreaks.github.io/Sunflower-Business-Mobi/)** ·
+**[Live demo](https://mobifreaks.munawarahmed.com/Sunflower-Business-Mobi/)** ·
 [Download zip](https://github.com/mobifreaks/Sunflower-Business-Mobi/archive/HEAD.zip) ·
 [All 22 templates](https://munawarahmed.com/mobifreaks)
 
